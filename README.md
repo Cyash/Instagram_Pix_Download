@@ -8,7 +8,7 @@ This app runs on serverless backend using AWS API Gateway+ AWS Lambda (Python + 
 
 # Requirements	
 •	AWS Account (Free tier is good enough!)
-•	Zappa (Serverless Framework) 
+•	Zappa (Serverless Framework for orchestrating Flask app Deployments to AWS Lambda ) 
 
 # Dependencies
 •	Requests
